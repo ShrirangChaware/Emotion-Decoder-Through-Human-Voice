@@ -1,0 +1,12 @@
+Step 1:  You need to install the following libraries with pip.
+
+	 pip install librosa==0.6.3 numpy soundfile==0.9.0 sklearn pyaudio==0.2.11
+Step 2:  you required dataset download it from here(https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view)
+
+Step 3:  store the downloaded dataset and copy and paste it to directory location ex.(("C:\\ravdess\\Actor_*\\*.wav")
+
+Step 4: also change path of input file address to your directory path same as
+
+ 	file = "C:\\ravdess\\Actor_02\\03-01-03-02-01-02-02.wav" for particular file detection.
+
+Step 5: give path of html file path to corresponding emotion. Also change path in html file for image. 
